@@ -1,0 +1,3 @@
+[submodule "LibPaxos"]
+	path = LibPaxos
+	url = https://github.com/h1994st/LibPaxos
