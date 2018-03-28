@@ -21,3 +21,5 @@ UMich EECS 591: Distributed Systems
 |2018.03.19|[Dynamo](https://web.eecs.umich.edu/~manosk/assets/papers/dynamo.pdf)|[2018.03.18-Dynamo](https://github.com/h1994st/EECS-591/blob/master/Reviews/2018.03.18-Dynamo.md)|
 |2018.03.26|[GFS](https://web.eecs.umich.edu/~manosk/assets/papers/gfs.pdf)|[2018.03.25-GFS](https://github.com/h1994st/EECS-591/blob/master/Reviews/2018.03.25-GFS.md)|
 |2018.03.26|[Bigtable](https://web.eecs.umich.edu/~manosk/assets/papers/bigtable.pdf)|[2018.03.25-Bigtable](https://github.com/h1994st/EECS-591/blob/master/Reviews/2018.03.25-Bigtable.md)|
+|2018.03.28|[Megastore](https://web.eecs.umich.edu/~manosk/assets/papers/megastore.pdf)|[2018.03.27-Megastore](https://github.com/h1994st/EECS-591/blob/master/Reviews/2018.03.27-Megastore.md)|
+|2018.03.28|[Spanner](https://web.eecs.umich.edu/~manosk/assets/papers/spanner.pdf)|[2018.03.27-Spanner](https://github.com/h1994st/EECS-591/blob/master/Reviews/2018.03.27-Spanner.md)|
