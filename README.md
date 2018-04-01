@@ -23,3 +23,9 @@ UMich EECS 591: Distributed Systems
 |2018.03.26|[Bigtable](https://web.eecs.umich.edu/~manosk/assets/papers/bigtable.pdf)|[2018.03.25-Bigtable](https://github.com/h1994st/EECS-591/blob/master/Reviews/2018.03.25-Bigtable.md)|
 |2018.03.28|[Megastore](https://web.eecs.umich.edu/~manosk/assets/papers/megastore.pdf)|[2018.03.27-Megastore](https://github.com/h1994st/EECS-591/blob/master/Reviews/2018.03.27-Megastore.md)|
 |2018.03.28|[Spanner](https://web.eecs.umich.edu/~manosk/assets/papers/spanner.pdf)|[2018.03.27-Spanner](https://github.com/h1994st/EECS-591/blob/master/Reviews/2018.03.27-Spanner.md)|
+|2018.04.02|[MapReduce](https://web.eecs.umich.edu/~manosk/assets/papers/mapreduce.pdf)|[2018.03.30-MapReduce](https://github.com/h1994st/EECS-591/blob/master/Reviews/2018.03.30-MapReduce.md)|
+|2018.04.02|[Spark](https://web.eecs.umich.edu/~manosk/assets/papers/spark.pdf)|[2018.03.30-Spark](https://github.com/h1994st/EECS-591/blob/master/Reviews/2018.03.30-Spark.md)|
+|2018.04.04|[Bitcoin](https://web.eecs.umich.edu/~manosk/assets/papers/bitcoin.pdf)|[2018.04.??-Bitcoin](https://github.com/h1994st/EECS-591/blob/master/Reviews/2018.04.??-Bitcoin.md)|
+|2018.04.04|[Algorand](https://web.eecs.umich.edu/~manosk/assets/papers/algorand.pdf)|[2018.04.??-Algorand](https://github.com/h1994st/EECS-591/blob/master/Reviews/2018.04.??-Algorand.md)|
+|2018.04.09|[COPS](https://web.eecs.umich.edu/~manosk/assets/papers/cops.pdf)|[2018.04.??-COPS](https://github.com/h1994st/EECS-591/blob/master/Reviews/2018.04.??-COPS.md)|
+|2018.04.09|[RAMCloud](https://web.eecs.umich.edu/~manosk/assets/papers/ramcloud.pdf)|[2018.04.??-RAMCloud](https://github.com/h1994st/EECS-591/blob/master/Reviews/2018.04.??-RAMCloud.md)|
