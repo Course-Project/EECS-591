@@ -25,7 +25,7 @@ UMich EECS 591: Distributed Systems
 |2018.03.28|[Spanner](https://web.eecs.umich.edu/~manosk/assets/papers/spanner.pdf)|[2018.03.27-Spanner](Reviews/2018.03.27-Spanner.md)|
 |2018.04.02|[MapReduce](https://web.eecs.umich.edu/~manosk/assets/papers/mapreduce.pdf)|[2018.03.30-MapReduce](Reviews/2018.03.30-MapReduce.md)|
 |2018.04.02|[Spark](https://web.eecs.umich.edu/~manosk/assets/papers/spark.pdf)|[2018.03.30-Spark](Reviews/2018.03.30-Spark.md)|
-|2018.04.04|[Bitcoin](https://web.eecs.umich.edu/~manosk/assets/papers/bitcoin.pdf)|[Bitcoin Presentation](2018.04.04-Bitcoin_Jungho_Shengtuo)|
+|2018.04.04|[Bitcoin](https://web.eecs.umich.edu/~manosk/assets/papers/bitcoin.pdf)|[Bitcoin Presentation](Reviews/2018.04.04-Bitcoin_Jungho_Shengtuo.pdf)|
 |2018.04.04|[Algorand](https://web.eecs.umich.edu/~manosk/assets/papers/algorand.pdf)|[2018.04.03-Algorand](Reviews/2018.04.03-Algorand.md)|
 |2018.04.09|[COPS](https://web.eecs.umich.edu/~manosk/assets/papers/cops.pdf)|[2018.04.??-COPS](Reviews/2018.04.??-COPS.md)|
 |2018.04.09|[RAMCloud](https://web.eecs.umich.edu/~manosk/assets/papers/ramcloud.pdf)|[2018.04.??-RAMCloud](Reviews/2018.04.??-RAMCloud.md)|
