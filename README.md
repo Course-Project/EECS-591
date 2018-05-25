@@ -27,5 +27,4 @@ UMich EECS 591: Distributed Systems
 |2018.04.02|[Spark](https://web.eecs.umich.edu/~manosk/assets/papers/spark.pdf)|[2018.03.30-Spark](Reviews/2018.03.30-Spark.md)|
 |2018.04.04|[Bitcoin](https://web.eecs.umich.edu/~manosk/assets/papers/bitcoin.pdf)|[Bitcoin Presentation](Reviews/2018.04.04-Bitcoin_Jungho_Shengtuo.pdf)|
 |2018.04.04|[Algorand](https://web.eecs.umich.edu/~manosk/assets/papers/algorand.pdf)|[2018.04.03-Algorand](Reviews/2018.04.03-Algorand.md)|
-|2018.04.09|[COPS](https://web.eecs.umich.edu/~manosk/assets/papers/cops.pdf)|[2018.04.08-COPS](Reviews/2018.04.08-COPS.md)|
 |2018.04.09|[RAMCloud](https://web.eecs.umich.edu/~manosk/assets/papers/ramcloud.pdf)|[2018.04.08-RAMCloud](Reviews/2018.04.08-RAMCloud.md)|
